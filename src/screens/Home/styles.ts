@@ -46,4 +46,8 @@ export const styles = StyleSheet.create({
     flex: 1,
     gap: 8,
   },
+  text: {
+    color: "white",
+    fontSize: 14,
+  },
 });
